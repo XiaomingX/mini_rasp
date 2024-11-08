@@ -1,0 +1,16 @@
+xxx/javaopenrasp/ClassTransformer.class
+xxx/javaopenrasp/visitors/rce/DeserializationVisitor.class
+xxx/javaopenrasp/util/StackTrace.class
+xxx/javaopenrasp/util/Reflections.class
+xxx/javaopenrasp/visitors/rce/OgnlVisitor.class
+xxx/javaopenrasp/Agent.class
+xxx/javaopenrasp/visitors/rce/OgnlVisitorAdapter.class
+xxx/javaopenrasp/visitors/rce/DeserializationVisitorAdapter.class
+xxx/javaopenrasp/config/Config.class
+xxx/javaopenrasp/visitors/rce/ProcessBuilderVisitor.class
+xxx/javaopenrasp/filters/rce/DeserializationFilter.class
+xxx/javaopenrasp/util/Console.class
+xxx/javaopenrasp/filters/SecurityFilterI.class
+xxx/javaopenrasp/visitors/rce/ProcessBuilderVisitorAdapter.class
+xxx/javaopenrasp/filters/rce/PrcessBuilderFilter.class
+xxx/javaopenrasp/filters/rce/OgnlFilter.class
